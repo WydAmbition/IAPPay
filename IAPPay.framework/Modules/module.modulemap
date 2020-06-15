@@ -1,0 +1,6 @@
+framework module IAPPay {
+  umbrella header "IAPPay.h"
+
+  export *
+  module * { export * }
+}
